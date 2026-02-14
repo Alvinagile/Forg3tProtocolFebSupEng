@@ -1,0 +1,2 @@
+reword e18be86 Initial commit: Replace ZK implementation
+pick 15be41d Update terminology: Complete ZK conversion
